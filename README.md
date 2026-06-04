@@ -21,6 +21,7 @@ Esta Release 1 representa la entrega formal de la **Fase 1 (Platform Consolidati
 ## Código fuente y repositorios
 
 El código fuente de ISBE está alojado en la organización [**github.com/alastria**](https://github.com/alastria).
+Aquí está el índice de artefactos que corresponde a el entregable T4 [**github.com/alastria/isbe-artefactos**](https://github.com/alastria/isbe-artefactos/blob/main/README.md)
 
 > **Nota:** El acceso a los repositorios es restringido. Para solicitar permisos, contacta con el equipo de ISBE en [redisbe.com](https://redisbe.com) o abre una solicitud a través del canal habilitado para desarrolladores.
 
