@@ -101,8 +101,10 @@ Incluye guías de integración, referencia del Smart Contract Framework, especif
 
 ## Release 2026.2
 
-La Release 2026.2 está prevista para el segundo semestre de 2026.
-
+- Actualización Besu 26.01
+- Actualización Cancún
+- Plugin HSM para Besu
+- Despliegue de nodos en proveedor europeo
 
 ---
 
