@@ -99,9 +99,16 @@ Incluye guías de integración, referencia del Smart Contract Framework, especif
 
 ---
 
-## Próximos pasos — Release 2026.2 (H2 2026)
+## Release 2026.2
 
 La Release 2026.2 está prevista para el segundo semestre de 2026.
+
+
+---
+
+## Release 2026.3 (H2 2026)
+
+La Release 2026.3 está prevista para el segundo semestre de 2026.
 
 ---
 
