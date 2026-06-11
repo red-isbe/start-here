@@ -1,4 +1,4 @@
-# ISBE — Release 2026.2: Documentación del Proyecto
+# ISBE — Release 2026.1: Documentación del Proyecto
 
 **Infraestructura de Servicios Blockchain de España (ISBE)**  
 Financiada por NextGenerationEU · PRTR C13 · Convenio CM–Alastria  
@@ -27,9 +27,9 @@ Aquí está el índice de artefactos que corresponde a el entregable T4 [**githu
 
 ---
 
-## Documentos entregados — Release 1
+## Documentos entregados — Release 2026.1
 
-Los documentos están organizados en los siguientes bloques temáticos. Todos los archivos están disponibles en la [carpeta de Google Drive de Release 1](https://drive.google.com/drive/folders/1oj8H0V10UySCgmqniiNFaRgSzMweLtjT?usp=sharing).
+Los documentos están organizados en los siguientes bloques temáticos. Todos los archivos están disponibles en la [carpeta de Google Drive de Release 2026.1](https://drive.google.com/drive/folders/1oj8H0V10UySCgmqniiNFaRgSzMweLtjT?usp=sharing).
 
 ### T1x — Análisis y Arquitectura
 
