@@ -1,4 +1,4 @@
-# ISBE — Release 2026.1: Documentación del Proyecto
+# ISBE — Release 2026.1: Documentación Proyecto
 
 **Infraestructura de Servicios Blockchain de España (ISBE)**  
 Financiada por NextGenerationEU · PRTR C13 · Convenio CM–Alastria  
@@ -14,7 +14,7 @@ La arquitectura de ISBE sigue un modelo de **red de redes** federada: una capa p
 
 ISBE opera 9 Core Capabilities sobre las que los Service Providers construyen sus servicios sin competir con la infraestructura. Los pilares estratégicos actuales cubren desde certificación de evidencias y lógica de negocio verificable hasta identidad descentralizada, dinero digital y tokenización de activos reales.
 
-Esta Release 1 representa la entrega formal de la **Fase 1 (Platform Consolidation)**: arquitectura de referencia, gobernanza, marco regulatorio, modelo de sostenibilidad, puesta en producción e implantación.
+Esta Release 2026.1 representa la entrega formal del proyecto: arquitectura de referencia, gobernanza, marco regulatorio, modelo de sostenibilidad, puesta en producción e implantación.
 
 ---
 
@@ -99,9 +99,9 @@ Incluye guías de integración, referencia del Smart Contract Framework, especif
 
 ---
 
-## Próximos pasos — Release 2026.3 (H2 2026)
+## Próximos pasos — Release 2026.2 (H2 2026)
 
-La Release 2 está prevista para el segundo semestre de 2026.
+La Release 2026.2 está prevista para el segundo semestre de 2026.
 
 ---
 
