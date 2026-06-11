@@ -1,4 +1,4 @@
-# ISBE — Release 2026.1: Documentación del Proyecto
+# ISBE — Release 2026.2: Documentación del Proyecto
 
 **Infraestructura de Servicios Blockchain de España (ISBE)**  
 Financiada por NextGenerationEU · PRTR C13 · Convenio CM–Alastria  
@@ -99,7 +99,7 @@ Incluye guías de integración, referencia del Smart Contract Framework, especif
 
 ---
 
-## Próximos pasos — Release 2026.2 (H2 2026)
+## Próximos pasos — Release 2026.3 (H2 2026)
 
 La Release 2 está prevista para el segundo semestre de 2026.
 
